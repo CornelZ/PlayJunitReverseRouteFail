@@ -1,0 +1,1 @@
+GET	/foo	controllers.FooController.index(request: Request)
